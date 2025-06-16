@@ -29,15 +29,15 @@ This is a Windows Forms application I developed in 2023 as part of my Grade 12 s
 ### User Interfaces
 
 ![Screenshot 1](images/screenshot1.jpg)  
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2](images/screenshot2.PNG)
 
 ### Data Entry Example
 
-![Data Entry](images/screenshot3.png)
+![Data Entry](images/screenshot3.PNG)
 
 ### Examples of Code
 
-![Coding](images/screenshot4.png)
+![Coding](images/screenshot4.PNG)
 
 
 
